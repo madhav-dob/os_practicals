@@ -1,0 +1,6 @@
+total 48
+-rwxrwxr-x 1 madhav madhav 16712 Nov 22 18:07 fork_demo_prac
+-rw-rw-r-- 1 madhav madhav   395 Nov 22 18:03 fork_demo_prac.cpp
+-rwxrwxr-x 1 madhav madhav 16624 Nov 22 18:07 get_pid_prac
+-rw-rw-r-- 1 madhav madhav   157 Nov 22 18:10 get_pid_prac.cpp
+-rw-rw-r-- 1 madhav madhav     0 Nov 22 18:39 output.txt
